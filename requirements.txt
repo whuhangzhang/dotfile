@@ -12,3 +12,4 @@ pandas
 opencv-python
 pytorch-lightning
 huggingface_hub[cli]
+datasets
