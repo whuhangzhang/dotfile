@@ -14,3 +14,7 @@ huggingface_hub[cli]
 datasets
 shapely
 oss2
+geojson
+pyproj
+tqdm
+xmltodict
