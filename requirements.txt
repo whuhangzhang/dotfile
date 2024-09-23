@@ -7,7 +7,11 @@ deepspeed
 wandb
 shapely
 numpy
+scipy
+einops
+pyyaml
 pandas
+matplotlib
 opencv-python
 oss2
 geojson
@@ -18,3 +22,4 @@ lightning
 datasets
 transformers
 huggingface_hub[cli]
+pydantic
