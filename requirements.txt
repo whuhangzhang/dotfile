@@ -12,3 +12,5 @@ opencv-python
 pytorch-lightning
 huggingface_hub[cli]
 datasets
+shapely
+oss2
